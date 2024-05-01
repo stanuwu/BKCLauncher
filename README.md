@@ -1,15 +1,18 @@
-## PG3D Injector
-Launcher and Injector for [PixelGun3DInternal](https://github.com/stanuwu/PixelGunCheatInternal)
+## PG3D Injector Overview
+This repository serves as a launcher and injector for [PixelGun3DInternal](https://github.com/stanuwu/PixelGunCheatInternal), providing tools and insights for security research in video games.
 
-## Warning!
-- This Program is FREE SOFTWARE.
-- It will always be available for free, with the source code included.
-- All features will be unlocked and there will be no requirements to obtain the program.
-- If someone asks you to pay for this program or complete a task to obtain it you are getting scammed!
+## General Information
+- The PG3D Injector is offered as **free software**.
+- Accessibility to the software, including its source code, is guaranteed at no cost.
+- All features of this program are fully accessible without any prerequisites.
+- Be aware that any requests for payment or completion of tasks in exchange for access to this program are deceptive and unauthorized.
 
-## !!! DISCLAIMER !!!  
-This repository contains findings and test software related to security research on video games. Since there is no program by the developer all findings will be publically published for free. We do not take responsibility for what anyone does using our findings or software. This project is being created for educational and security research purposes only!
+## Disclaimer
+The content of this repository is intended solely for educational and security research purposes. It includes findings and experimental software that aim to contribute to the field of video game security. These findings are publicly available as no proprietary software is developed by our team.
 
-We are not encouraging modding or cheating with this repository. It is purely for educational purposes only. to companies including but not limited to Epic Games, EA, Bohemia Interative, Bluehole, Daybreak, Activision, Rockstar, Cubic Games, and Devolver Digital this is a copyright disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+Please note that the use of information and software from this repository is the sole responsibility of the user. Our objective is not to promote but to educate on modding or cheating techniques.
 
-> Thanks to `@ph0mp` for helping improve the injector.
+In compliance with Section 107 of the Copyright Act of 1976, this work is conducted under the principles of "fair use." Such use applies to activities including criticism, commentary, news reporting, teaching, scholarship, and research. These uses are deemed permissible under copyright law, which may otherwise restrict such activities. This disclaimer serves to clarify our stance towards companies such as Epic Games, EA, Bohemia Interactive, Bluehole, Daybreak, Activision, Rockstar, Cubic Games, and Devolver Digital.
+
+## Acknowledgments
+Special thanks to `@ph0mp` for their contributions to enhancing the injector.
